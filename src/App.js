@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>React To-to List</h1>
+        <h1>React To-to List {inputText}</h1>
       </header>
       <Form setInputText={setInputText} />
       <ToDoList />
