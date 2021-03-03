@@ -4,11 +4,13 @@ import './App.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Form from "./components/form";
+import ToDoList from "./components/toDoList";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <Form />
+    <ToDoList />
   </React.StrictMode>,
   document.getElementById('root')
 );
