@@ -1,3 +1,8 @@
+# Hello There!
+Thank you for visiting! This was a small project that I worked on while learning react. The tutorial to said project is right here: https://www.youtube.com/watch?v=pCA4qpQDZD8
+
+I had a lot of fun (getting stuck) and making this. To run, just clone it and type in "npm start" and it should work. ("should")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
